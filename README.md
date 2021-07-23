@@ -1,6 +1,6 @@
 # Please copy paste below code
 ```
 module "asg" {
-    source = "abdulvosit/asg/aws"
+    source = "Abdulvosit/asg/aws"
 }
 ```
